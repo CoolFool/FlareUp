@@ -16,7 +16,7 @@
       "description" : "Comma(,) seperated domains"
     },
     "PROXIED":{
-      "description" : "Proxy connection through cloudflare dns?"
+      "description" : "Proxy connection through cloudflare dns?",
       "value": "false"
     }
   }
