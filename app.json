@@ -1,0 +1,23 @@
+{
+  "name": "flareUp",
+  "description": "Cloudflare DynamicDNS service for router",
+  "repository": "https://github.com/CoolFool/flareup",
+  "env":{
+    "USERNAME":{
+      "description" : "Username for flareup"
+    },
+    "PASSWORD":{
+      "description" : "Password for flareup"
+    },
+    "CF_API_TOKEN":{
+      "description" : "Cloudflare API token"
+    },
+    "DOMAINS":{
+      "description" : "Comma(,) seperated domains"
+    },
+    "PROXIED":{
+      "description" : "Proxy connection through cloudflare dns?"
+      "value": "false"
+    }
+  }
+}

@@ -1,0 +1,15 @@
+version: '3'
+services:
+  flareup:
+    image: 'coolfool/flareup:latest'
+    container_name: flareup
+    ports:
+      - '5335:5335'
+    environment:
+      - USERNAME=<username for auth>
+      - PASSWORD=<password for auth>
+      - CF_API_TOKEN=<cloudflare api token>
+      - PORT=5335 #change if required
+      - DOMAINS=<comma(,) seperated domains>
+      - PROXIED=false #change if required
+    restart: unless-stopped
