@@ -103,7 +103,7 @@ func main() {
 		log.Fatal("Environment variables not set")
 	}
 	if isProxy != "" {
-		proxied, _ = strconv.ParseBool(isProxy)
+		proxied, _ = strconv.ParseBool(strings.ToLower(isProxy))
 	}
 	if port == "" {
 		port = ":5335"

@@ -1,6 +1,6 @@
 {
   "name": "flareUp",
-  "description": "Cloudflare DynamicDNS service for router",
+  "description": "Self-Hosted Cloudflare based DynamicDNS service for router",
   "repository": "https://github.com/CoolFool/flareup",
   "env":{
     "USERNAME":{
