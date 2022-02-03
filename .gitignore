@@ -2,6 +2,7 @@
 .env
 dist
 docker-compose-dev.yml
+!.goreleaser.yaml
 !.github
 !/.gitignore
 !/.dockerignore
