@@ -1,6 +1,7 @@
 .*
 .env
 docker-compose-dev.yml
+dist
 [Dd]ebug/
 [Dd]ebugPublic/
 [Rr]elease/
