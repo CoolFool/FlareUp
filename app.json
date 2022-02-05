@@ -1,7 +1,9 @@
 {
   "name": "flareUp",
   "description": "Self-hosted and Easy-to-deploy Cloudflare based Dynamic DNS service for router",
-  "repository": "https://github.com/CoolFool/flareup/blob/main/logo.png",
+  "logo": "https://github.com/CoolFool/flareup/blob/main/logo.png",
+  "repository": "https://github.com/CoolFool/flareup/",
+  "stack": "container",
   "env":{
     "USERNAME":{
       "description" : "Username for flareup"
