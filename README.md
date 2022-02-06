@@ -76,7 +76,7 @@ To run this project, you will need to add the following environment variables to
         ```
 
 2) ### Docker Compose
-    1) Download [docker-compose.yml]()
+    1) Download [docker-compose.yml](https://github.com/CoolFool/flareup/blob/main/docker-compose.yml)
     2) Open the file in a text editor and fill the environment variables
     3) Execute the following command in the same directory
         ```
