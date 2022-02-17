@@ -99,7 +99,7 @@ To run this project, you will need to add the following environment variables to
 * Important Notes before setup: 
   1) The flareup update url is `https://example.com/update`
   2) If the router insists on having a hostname for update you can use 
-  `https://example.com/update?hostname=all.flareup` as url and `all.flareup` as hostname
+  `https://example.com/update?hostname=` as url and `all.flareup` as hostname
 
 1) The DynamicDNS server will be the hostname where the service is hosted eg. `example.com`
 2) Fill the username and password as you entered in environment variable
