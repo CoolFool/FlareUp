@@ -4,17 +4,17 @@
 </div>
 
 ## Contents
-- [Features](#Features)
-- [Environment Variables](#Environment-Variables)
-- [Installation](#Installation)
-  - [Heroku](#Heroku)
-  - [Docker (Run and Compose)](#Docker)
-  - [Standalone Binaries](#Standalone-Binaries)
-- [Router Setup](#Router-Setup)
-- [Build and Run Locally](#Build-and-Run-Locally)
-- [Contributing](#Contributing)
-- [Authors](#Authors)
-- [License](#License)
+- [Features](#features)
+- [Environment Variables](#environment-Variables)
+- [Installation](#installation)
+  - [Heroku](#heroku)
+  - [Docker (Run and Compose)](#docker)
+  - [Standalone Binaries](#standalone-binaries)
+- [Router Setup](#router-setup)
+- [Build and Run Locally](#build-and-run-locally)
+- [Contributing](#contributing)
+- [Authors](#authors)
+- [License](#license)
 
 
 ## Features
